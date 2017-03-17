@@ -2,13 +2,13 @@
 
 Guia da comunidade, inspirado no [Anti-Harassment Policy da Google](https://support.google.com/developergroups/answer/3340512?hl=en&ref_topic=3340510) para os GDGs. Nós apoiamos também condutas como [Não seja um idiota](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk).
 
-###Porque temos um código de conduta para o GDG Natal?
+### Porque temos um código de conduta para o GDG Natal?
 
 Ele cria expectativas de comportamento nos nossos eventos. Só ter um código de conduta pode evitar assédio.
 Ele encoraja pessoas que já tiveram experiências ruins anteriormente a participarem dos nossos eventos.
 Ele dá aos organizadores/voluntários instruções de como lidar com situações de assédio rapidamente, com o mínimo de repercussão nos eventos.
 
-###O GDG Natal é dedicado a prover um ambiente livre de assédios para todos, independente de:
+### O GDG Natal é dedicado a prover um ambiente livre de assédios para todos, independente de:
 
 - gênero
 - orientação sexual
