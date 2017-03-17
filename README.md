@@ -40,7 +40,7 @@ Parceiros, expositores e palestrantes também estão sujeitos ao código de cond
 
 Se você está sendo sofrendo algum tipo de assédio, percebeu que alguém está ou tem qualquer outra intenção, por favor, contate imediatamente um organizador ou voluntário. Eles podem ser identificados por camisas ou crachás especiais em eventos ou através de marcações especiais nos meetups, no caso de eventos online. Os organizadores irão investigar o problema e tomar as ações devidas. Isso pode incluir ajudar os participantes a contatarem a segurança ou as autoridades locais, providenciar escoltas ou ajudar de alguma outra forma os que estiverem sofrendo assédio a se sentirem seguros durante o evento.
 
-**Contato:**\
+**Contato:**
 - [gdgnatal.com](http://www.gdgnatal.com/)
 - [Facebook](https://www.facebook.com/gdgnatal/)
 - [Meetup](https://www.meetup.com/GDG-Natal/)
