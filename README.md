@@ -23,7 +23,7 @@ Ele dá aos organizadores/voluntários instruções de como lidar com situaçõe
 
 Linguagem e imagens de cunho sexual não são apropriados para nenhum evento, incluindo palestras. Participantes de eventos que violarem essas regras poderão ser expulsos do evento e até banidos de futuros eventos, de acordo com os critérios dos organizadores.
 
-###Assédio inclui, mas não está limitado a:
+### Assédio inclui, mas não está limitado a:
 
 - comentários verbais ofensivos relacionados a gênero, orientação sexual, deficiência, identidade de gênero, idade, raça, religião
 - imagens sexuais em espaços públicos
