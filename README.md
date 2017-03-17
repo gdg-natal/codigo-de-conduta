@@ -47,6 +47,6 @@ Se você está sendo sofrendo algum tipo de assédio, percebeu que alguém está
 
 Apesar de esperarmos que nunca precisemos invocar esse código de conduta, acreditamos que ter esse documento leva todos a uma reflexão sobre como suas ações e palavras afetam toda a comunidade, assim como indivíduos da comunidade.
 
-##Licença e Atribuições
+## Licença e Atribuições
 
 Esse código de conduta é licenciado através da licença [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Esse código é baseado em vários outros códigos de conduta, incluindo o Código de Conduta da Ohio LinuxFest, escrito por Esther Filderman e Beth Lynn Eicher, e o Projeto da Conferência Anti-Assédio. Mary Gardiner, Valerie Aurora, Sarah Smith e Donna Benjamin generalizaram as regras e adicionaram materiais de suporte. Membros da LinuxChix e Geek Feminism, além de vários outros grupos, contribuiram para esse trabalho.
